@@ -52,7 +52,7 @@
     {
       "component": "header",
       "heading": "learning-rust",
-      "subhead": null,
+      "subhead": "wow",
       "children": [
         {
           "component": "ui/TweetButton",
@@ -64,7 +64,10 @@
           "user": "jekrb",
           "repo": "learning-rust"
         }
-      ]
+      ],
+      "slug": "",
+      "text": "cool",
+      "links": []
     },
     {
       "component": "footer",
